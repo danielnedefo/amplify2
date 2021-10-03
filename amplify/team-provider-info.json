@@ -1,0 +1,80 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-test2-staging-155327-authRole",
+      "UnauthRoleArn": "arn:aws:iam::373326114968:role/amplify-test2-staging-155327-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::373326114968:role/amplify-test2-staging-155327-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-test2-staging-155327-deployment",
+      "UnauthRoleName": "amplify-test2-staging-155327-unauthRole",
+      "StackName": "amplify-test2-staging-155327",
+      "StackId": "arn:aws:cloudformation:eu-central-1:373326114968:stack/amplify-test2-staging-155327/44a40e50-fabc-11eb-ae60-0a6681ea8fcc",
+      "AmplifyAppId": "dy0xanly2sqn1"
+    }
+  },
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-test2-dev-124636-authRole",
+      "UnauthRoleArn": "arn:aws:iam::373326114968:role/amplify-test2-dev-124636-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::373326114968:role/amplify-test2-dev-124636-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-test2-dev-124636-deployment",
+      "UnauthRoleName": "amplify-test2-dev-124636-unauthRole",
+      "StackName": "amplify-test2-dev-124636",
+      "StackId": "arn:aws:cloudformation:eu-central-1:373326114968:stack/amplify-test2-dev-124636/2fe74db0-fb52-11eb-9d3e-0a4f1fcd9da6",
+      "AmplifyAppId": "dy0xanly2sqn1"
+    }
+  },
+  "restart": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-test2-restart-124932-authRole",
+      "UnauthRoleArn": "arn:aws:iam::373326114968:role/amplify-test2-restart-124932-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::373326114968:role/amplify-test2-restart-124932-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-test2-restart-124932-deployment",
+      "UnauthRoleName": "amplify-test2-restart-124932-unauthRole",
+      "StackName": "amplify-test2-restart-124932",
+      "StackId": "arn:aws:cloudformation:eu-central-1:373326114968:stack/amplify-test2-restart-124932/9ba53e40-fb52-11eb-8e0a-06cc8058d152",
+      "AmplifyAppId": "dy0xanly2sqn1"
+    }
+  },
+  "sec": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-test2-sec-125647-authRole",
+      "UnauthRoleArn": "arn:aws:iam::373326114968:role/amplify-test2-sec-125647-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::373326114968:role/amplify-test2-sec-125647-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-test2-sec-125647-deployment",
+      "UnauthRoleName": "amplify-test2-sec-125647-unauthRole",
+      "StackName": "amplify-test2-sec-125647",
+      "StackId": "arn:aws:cloudformation:eu-central-1:373326114968:stack/amplify-test2-sec-125647/9c74f4e0-fb53-11eb-9bea-062e9d28d076",
+      "AmplifyAppId": "dy0xanly2sqn1"
+    }
+  },
+  "new": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-test2-new-135611-authRole",
+      "UnauthRoleArn": "arn:aws:iam::373326114968:role/amplify-test2-new-135611-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::373326114968:role/amplify-test2-new-135611-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-test2-new-135611-deployment",
+      "UnauthRoleName": "amplify-test2-new-135611-unauthRole",
+      "StackName": "amplify-test2-new-135611",
+      "StackId": "arn:aws:cloudformation:eu-central-1:373326114968:stack/amplify-test2-new-135611/e89114f0-fb5b-11eb-9bcf-027b5491580a",
+      "AmplifyAppId": "dy0xanly2sqn1"
+    }
+  },
+  "dsa": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-test2-dsa-140519-authRole",
+      "UnauthRoleArn": "arn:aws:iam::373326114968:role/amplify-test2-dsa-140519-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::373326114968:role/amplify-test2-dsa-140519-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-test2-dsa-140519-deployment",
+      "UnauthRoleName": "amplify-test2-dsa-140519-unauthRole",
+      "StackName": "amplify-test2-dsa-140519",
+      "StackId": "arn:aws:cloudformation:eu-central-1:373326114968:stack/amplify-test2-dsa-140519/2ef94330-fb5d-11eb-908a-0afe841876c0",
+      "AmplifyAppId": "dy0xanly2sqn1"
+    }
+  }
+}

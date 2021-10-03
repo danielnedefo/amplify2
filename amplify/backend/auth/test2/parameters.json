@@ -1,0 +1,6 @@
+{
+  "authSelections": "identityPoolAndUserPool",
+  "resourceName": "test2",
+  "serviceType": "imported",
+  "region": "eu-central-1"
+}
